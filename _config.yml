@@ -39,8 +39,9 @@ baseurl: "/Machine-Learning" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: iavinashranjan 
+    github: avinashkranjan
+    linkedin: avinashkranjan
 
 # Set this to true to get LaTeX math equation support
 use_math: 
