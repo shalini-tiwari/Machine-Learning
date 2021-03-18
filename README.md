@@ -1,3 +1,5 @@
+![Machine-Learning](https://socialify.git.ci/avinashkranjan/Machine-Learning/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light)
+
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 ![](https://github.com/avinashkranjan/Machine-Learning/workflows/CI/badge.svg) 
